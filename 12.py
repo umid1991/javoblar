@@ -2,7 +2,7 @@ narh = 15000
 choy = True
 salat = True
 sal  = True
-
+print("salom")
 
 if choy and salat:
     narh = narh + 10000
